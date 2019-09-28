@@ -1,0 +1,13 @@
+name: project1-Tiange
+title: project1-Tiange
+username:
+account: tiangey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1257165
+bundleId: 2451128
+url: https://tiangey.shinyapps.io/project1-Tiange/
+when: 1569650268.79161
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: project1.R
